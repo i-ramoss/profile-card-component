@@ -26,7 +26,7 @@ Your users should be able to:
 
 ## :confetti_ball: Preview:
 
-<div align="center" style="display: flex; align-items: center; gap: 16px">
+<div align="center" style="display: flex; align-items: center; gap: 16px; max-height: 600px">
   <img src=".github/screenshot.png" alt="Desktop car preview card" width="400px">
   <img src=".github/screenshot2.png" alt="Tablet car preview card" width="300px">
 </div>
