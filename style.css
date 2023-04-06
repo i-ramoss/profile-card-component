@@ -24,26 +24,14 @@ body {
   justify-content: center;
   align-items: center;
 
-  width: 100%;
   min-height: 100vh;
+
+  background-image: url("./images/bg-pattern-top.svg"),
+    url("./images/bg-pattern-bottom.svg");
+  background-position: right 52vw bottom 38vh, left 48vw top 50vh;
+  background-repeat: no-repeat, no-repeat;
   background-color: var(--dark-cyan);
-
   font-family: "Kumbh Sans", sans-serif;
-
-  position: relative;
-  overflow: hidden;
-}
-
-.top-ball {
-  position: absolute;
-  top: -40%;
-  left: -3%;
-}
-
-.bottom-ball {
-  position: absolute;
-  bottom: -50%;
-  right: -1%;
 }
 
 /* container */
