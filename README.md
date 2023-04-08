@@ -33,8 +33,8 @@ Your users should be able to:
 
 ## :paperclip: Links:
 
-- Solution URL: https://www.frontendmentor.io/solutions/responsive-car-preview-card-component-GdEeL0WzCu
-- Live Site URL: https://i-ramoss.github.io/car-preview-component/
+- Solution URL: https://www.frontendmentor.io/solutions/profile-card-component-KD9LsB9xy2
+- Live Site URL: https://i-ramoss.github.io/profile-card-component/
 
 ## :rocket: Built with:
 
